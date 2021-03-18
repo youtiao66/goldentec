@@ -34,3 +34,6 @@
 | 名称 | 地址 |
 | --- | --- |
 | COSBrowser | https://cloud.tencent.com/document/product/436/11366 |
+
+## 微信小程序
+- [npm 支持](https://developers.weixin.qq.com/miniprogram/dev/devtools/npm.html)
